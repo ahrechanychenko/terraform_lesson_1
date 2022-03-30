@@ -16,3 +16,5 @@
 
 7) Add output for ip address
    re-run terraform plan + terraform apply 
+
+8) destroy environment by running - terraform destroy 
